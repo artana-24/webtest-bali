@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/webtest-bali/static/css/main.5f361e03.chunk.css",
-    "main.js": "/webtest-bali/static/js/main.1a406de8.chunk.js",
-    "main.js.map": "/webtest-bali/static/js/main.1a406de8.chunk.js.map",
+    "main.js": "/webtest-bali/static/js/main.c1528f4d.chunk.js",
+    "main.js.map": "/webtest-bali/static/js/main.c1528f4d.chunk.js.map",
     "runtime-main.js": "/webtest-bali/static/js/runtime-main.e0037a08.js",
     "runtime-main.js.map": "/webtest-bali/static/js/runtime-main.e0037a08.js.map",
     "static/css/2.a21a5073.chunk.css": "/webtest-bali/static/css/2.a21a5073.chunk.css",
     "static/js/2.805e2ef6.chunk.js": "/webtest-bali/static/js/2.805e2ef6.chunk.js",
     "static/js/2.805e2ef6.chunk.js.map": "/webtest-bali/static/js/2.805e2ef6.chunk.js.map",
     "index.html": "/webtest-bali/index.html",
-    "precache-manifest.47b8fec04063410b8803e95768fcfb35.js": "/webtest-bali/precache-manifest.47b8fec04063410b8803e95768fcfb35.js",
+    "precache-manifest.da37766ecc02720b3a6b46a35edeec79.js": "/webtest-bali/precache-manifest.da37766ecc02720b3a6b46a35edeec79.js",
     "service-worker.js": "/webtest-bali/service-worker.js",
     "static/css/2.a21a5073.chunk.css.map": "/webtest-bali/static/css/2.a21a5073.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/webtest-bali/static/css/main.5f361e03.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.a21a5073.chunk.css",
     "static/js/2.805e2ef6.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.1a406de8.chunk.js"
+    "static/js/main.c1528f4d.chunk.js"
   ]
 }
